@@ -50,13 +50,13 @@ header.startup h1 {
 }
 
 .btn-primary {
-  background-color: blue;
-  border-color: yellow;
+  background-color: #f05f44;
+  border-color: #f05f44;
 }
 
 .btn-primary:hover {
-  background-color: green;
-  border-color: purple;
+  background-color: #ee4b08;
+  border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
 }
